@@ -36,6 +36,11 @@ Al correr la aplicacion de Spring Boot aparece lo siguiente en el navegador
 ![Alt text](image-1.png)
 
 
+# Deploy en Railway 
+
+esta corriendo en railway el spring pero no me deja entrar por el URL 
+
+![image](https://github.com/DanielBuilesG/SpringbootWithRailwayAdaSchool/assets/73034258/4a276b6c-7d36-4f23-9f4f-96b7da878ede)
 
 
 
